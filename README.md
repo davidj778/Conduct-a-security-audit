@@ -89,18 +89,18 @@ The potential impact from the loss of an asset is rated as medium, because the I
 ### Payment Card Industry Data Security Standard (PCI DSS)
 | Yes | No | Best Practice |
 |-----|----|---------------|
-|| &#10004; | |
-|| &#10004; | |
-|| &#10004; | |
-|| &#10004; | |
+|| &#10004; | Only authorized users have access to customers’ credit card information. |
+|| &#10004; | Credit card information is stored, accepted, processed, and transmitted internally, in a secure environment. |
+|| &#10004; | Implement data encryption procedures to better secure credit card transaction touchpoints and data. |
+|| &#10004; | Adopt secure password management policies. |
 
 ### General Data Protection Regulation (GDPR)
 | Yes | No | Best Practice |
 |-----|----|---------------|
-|| &#10004; | |
-| &#10004; || |
-|| &#10004; | |
-| &#10004; || |
+|| &#10004; |  |
+| &#10004; ||  |
+|| &#10004; |  |
+| &#10004; ||  |
 
 ### System and Organizations Controls (SOC type 1, SOC type 2) 
 | Yes | No | Best Practice |
