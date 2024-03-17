@@ -116,15 +116,15 @@ The potential impact from the loss of an asset is rated as medium, because the I
 
 ### Recommendations
 
-- Implement RBAC to compensate for the lack of least privileges, this will prevent unauthorized access to customers data.
+- Implement RBAC to compensate for the lack of __least privileges__, this will prevent unauthorized access to customers data.
 - In case of a disaster that might temporarily disable the functionality of the business, adding an offsite backup facility for immediate recovery, a proper communication, etc, would help mitigate the damage caused.
-- Password complexity should be added to help avoid successful brute force attacks
-- To reduce the risk of a malicious insider attack or a comprised system, implementing a proper separation of duties policy is required. This policy can also reduce errors, enhance accountability and prevent fraud.
-- Adding an IDS will help detect malicious activity that could occur over the network. With a proper IDS system put in place, the IT team can respond in a timely manner to an attack. 
-- Implementing a RAID 1 or 5 system and incremental or differential backups are a few examples that can help maintain proper backups.
-- A schedule for monitoring is essential to ensure that legacy systems are not compromised.
-- Adding encryption for customer data, such as cryptography will make it more difficult for malicious actors to steal confidential information.
-- In order to speed up the response to a ticket, a centralized password system will need to be put in place.
+- __Password complexity__ should be added to help avoid successful brute force attacks
+- To reduce the risk of a malicious insider attack or a comprised system, implementing a proper __separation of duties__ policy is required. This policy can also reduce errors, enhance accountability and prevent fraud.
+- Adding an __IDS__ will help detect malicious activity that could occur over the network. With a proper IDS system put in place, the IT team can respond in a timely manner to an attack. 
+- Implementing a RAID 1 or 5 system and incremental or differential backups are a few examples that can help maintain proper __backups__.
+- A schedule for __monitoring__ is essential to ensure that legacy systems are not compromised.
+- Adding __encryption__ for customer data, such as cryptography will make it more difficult for malicious actors to steal confidential information.
+- In order to speed up the response to a ticket, a __centralized password system__ will need to be put in place.
 
 
 
