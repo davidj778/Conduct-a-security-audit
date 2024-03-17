@@ -62,7 +62,21 @@ The potential impact from the loss of an asset is rated as medium, because the I
 - The store’s physical location, which includes Botium Toys’ main offices, store front, and warehouse of products, has sufficient locks, up-to-date closed-circuit television (CCTV) surveillance, as well as functioning fire detection and prevention systems.
 
 
-
-
+| Yes | No |
+|-----|----|
+|| &#10004; |
+|| &#10004; |
+|| &#10004; |
+|| &#10004; |
+| &#10004; ||
+|| &#10004; |
+|| &#10004; |
+| &#10004; ||
+|| &#10004; |
+|| &#10004; |
+|| &#10004; |
+| &#10004; ||
+| &#10004; ||
+| &#10004; ||
 
 
