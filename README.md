@@ -88,6 +88,21 @@ The potential impact from the loss of an asset is rated as medium, because the I
 
 ## Payment Card Industry Data Security Standard (PCI DSS)
 
+## General Data Protection Regulation (GDPR)
+
+## System and Organizations Controls (SOC type 1, SOC type 2) 
+
+## Recommendations
+
+- Implement RBAC to compensate for the lack of least privileges, this will prevent unauthorized access to customers data.
+- In case of a disaster that might temporarily disable the functionality of the business, adding an offsite backup facility for immediate recovery, a proper communication, etc, would help mitigate the damage caused.
+- Password complexity should be added to help avoid successful brute force attacks
+- To reduce the risk of a malicious insider attack or a comprised system, implementing a proper separation of duties policy is required. This policy can also reduce errors, enhance accountability and prevent fraud.
+- Adding an IDS will help detect malicious activity that could occur over the network. With a proper IDS system put in place, the IT team can respond in a timely manner to an attack. 
+- Implementing a RAID 1 or 5 system and incremental or differential backups are a few examples that can help maintain proper backups.
+- A schedule for monitoring is essential to ensure that legacy systems are not compromised.
+- Adding encryption for customer data, such as cryptography will make it more difficult for malicious actors to steal confidential information.
+- In order to speed up the response to a ticket, a centralized password system will need to be put in place.
 
 
 
