@@ -87,10 +87,28 @@ The potential impact from the loss of an asset is rated as medium, because the I
 ## Compliance checklist
 
 ### Payment Card Industry Data Security Standard (PCI DSS)
+| Yes | No | Best Practice |
+|-----|----|---------------|
+|| &#10004; | |
+|| &#10004; | |
+|| &#10004; | |
+|| &#10004; | |
 
 ### General Data Protection Regulation (GDPR)
+| Yes | No | Best Practice |
+|-----|----|---------------|
+|| &#10004; | |
+| &#10004; || |
+|| &#10004; | |
+| &#10004; || |
 
 ### System and Organizations Controls (SOC type 1, SOC type 2) 
+| Yes | No | Best Practice |
+|-----|----|---------------|
+|| &#10004; | |
+|| &#10004; | |
+| &#10004; || |
+|| &#10004; | |
 
 ### Recommendations
 
