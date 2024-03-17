@@ -97,18 +97,18 @@ The potential impact from the loss of an asset is rated as medium, because the I
 ### General Data Protection Regulation (GDPR)
 | Yes | No | Best Practice |
 |-----|----|---------------|
-|| &#10004; |  |
-| &#10004; ||  |
-|| &#10004; |  |
-| &#10004; ||  |
+|| &#10004; | E.U. customers’ data is kept private/secured. |
+| &#10004; || There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach. |
+|| &#10004; | Ensure data is properly classified and inventoried. |
+| &#10004; || Enforce privacy policies, procedures, and processes to properly document and maintain data. |
 
 ### System and Organizations Controls (SOC type 1, SOC type 2) 
 | Yes | No | Best Practice |
 |-----|----|---------------|
-|| &#10004; | |
-|| &#10004; | |
-| &#10004; || |
-|| &#10004; | |
+|| &#10004; | User access policies are established. |
+|| &#10004; | Sensitive data (PII/SPII) is confidential/private. |
+| &#10004; || Data integrity ensures the data is consistent, complete, accurate, and has been validated. |
+|| &#10004; | Data is available to individuals authorized to access it. |
 
 ### Recommendations
 
