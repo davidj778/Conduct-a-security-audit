@@ -61,11 +61,11 @@ The potential impact from the loss of an asset is rated as medium, because the I
 - While legacy systems are monitored and maintained, there is no regular schedule in place for these tasks and intervention methods are unclear.
 - The store’s physical location, which includes Botium Toys’ main offices, store front, and warehouse of products, has sufficient locks, up-to-date closed-circuit television (CCTV) surveillance, as well as functioning fire detection and prevention systems.
 
+# Security Audit
+## Controls and compliance checklist
 
-# Controls and compliance checklist
 
-
-## Controls assessment checklist
+### Controls assessment checklist
 
 | Yes | No | Control |
 |-----|----|---------|
@@ -84,15 +84,15 @@ The potential impact from the loss of an asset is rated as medium, because the I
 | &#10004; || Closed-circuit television (CCTV) surveillance |
 | &#10004; || Fire detection/prevention (fire alarm, sprinkler system, etc.) |
 
-# Compliance checklist
+## Compliance checklist
 
-## Payment Card Industry Data Security Standard (PCI DSS)
+### Payment Card Industry Data Security Standard (PCI DSS)
 
-## General Data Protection Regulation (GDPR)
+### General Data Protection Regulation (GDPR)
 
-## System and Organizations Controls (SOC type 1, SOC type 2) 
+### System and Organizations Controls (SOC type 1, SOC type 2) 
 
-## Recommendations
+### Recommendations
 
 - Implement RBAC to compensate for the lack of least privileges, this will prevent unauthorized access to customers data.
 - In case of a disaster that might temporarily disable the functionality of the business, adding an offsite backup facility for immediate recovery, a proper communication, etc, would help mitigate the damage caused.
